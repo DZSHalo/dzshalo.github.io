@@ -1,0 +1,37 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: Links
+    output: web
+    folderitems:
+    - title: Home
+      url: /index.html
+      output: web
+      type: homepage
+
+    - title: News
+      url: /news.html
+      output: web
+
+    - title: Jekyll Doc Theme
+      url: /theme_about.html
+      output: web
+
+  - title: Software
+    output: web
+    folderitems:
+    - title: H-Ext
+      url: /h-ext/index.html
+      output: web
+
+    - title: Add-on API
+      url: /add-on api/index.html
+      output: web
+
+    - title: Add-ons
+      url: /add-ons/index.html
+      output: web

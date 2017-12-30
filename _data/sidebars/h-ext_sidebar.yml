@@ -1,0 +1,44 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: H-Ext
+  version: 0.5.3.4
+  folders:
+
+  - title: Links
+    output: web
+    folderitems:
+    - title: Home
+      url: /index.html
+      output: web
+      type: homepage
+
+    - title: News
+      url: /news.html
+      output: web
+
+    - title: Jekyll Doc Theme
+      url: /theme_about.html
+      output: web
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Get Started
+      url: /h-ext/index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Changelog
+      url: /h-ext/changelog.html
+      output: web, pdf
+
+    - title: FAQ
+      url: /h-ext/faq.html
+      output: web, pdf
+
+    - title: About
+      url: /h-ext/about.html
+      output: web, pdf
