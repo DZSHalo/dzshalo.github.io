@@ -4,9 +4,12 @@ sidebar: h-ext_sidebar
 permalink: /h-ext/commands.html
 folder: h-ext
 toc: false
+datatable: true
 ---
 
 ## Commands
+
+<div class="datatable-begin"></div>
 
 | Released | Command | Description | Deprecated Reason |
 | --- | --- | --- | --- |
@@ -34,5 +37,6 @@ toc: false
 | ? - (Current) | ext_func_alias_del (func_name) (alias_name) | Delete a shorter name from the function. | (none) |
 | 0.5.2.2 - (Current) | ext_halo_crash [boolean] | To allow Halo crash with notification show up. (Default: false) | (none) |
 
+<div class="datatable-end"></div>
 
 {% include links.html %}
