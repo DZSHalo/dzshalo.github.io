@@ -11,14 +11,14 @@
         margin-left: 250px !important;
     }
     ul#mysidebar {
-        width: 225px;
+        width: 225px !important;
     }
     .affix {
         position: fixed !important;
     }
     div#toc {
         float: right !important;
-        margin: 0 0 15px 15px;
+        margin: 0 0 15px 15px !important;
     }
 }
 /* Override page to display on whole screen instead of static width. */
@@ -29,22 +29,22 @@
 /* Custom colors */
 
 body {
-    background-color: #060;
-    color: #ddd;
+    background-color: #060 !important;
+    color: #ddd !important;
 }
 hr.shaded {
     background-color: #080 !important;
 }
 
 .navbar-inverse {
-    background-color: #F80;
-    border-color: #ddd;
+    background-color: #F80 !important;
+    border-color: #ddd !important;
 }
 
 .btn-primary {
     color: #ffffff;
-    background-color: #080;
-    border-color: #080;
+    background-color: #080 !important;
+    border-color: #080 !important;
 }
 
 .navbar-inverse .navbar-nav > .active > a,
@@ -52,24 +52,36 @@ hr.shaded {
 .navbar-inverse .navbar-nav > .active > a:focus,
 .nav > li.active > a,
 div.navbar-collapse .dropdown-menu > li > a:hover {
-    background-color: #080;
+    background-color: #080 !important;
 }
 
 .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
-    background-color: #060;
+    background-color: #060 !important;
 }
 
 .navbar-inverse .navbar-toggle {
-    border-color: #080;
+    border-color: #080 !important;
 }
 
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
-    background-color: #060;
-    color: #ffffff;
+    background-color: #060 !important;
+    color: #ffffff !important;
 }
 
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
     border-color: #080 !important;
+}
+a {
+    color: #0c0 !important;
+}
+a:focus, a:hover {
+    color: #0c0 !important;
+}
+.nav > li.active > a {
+    background-color: #F80 !important
+}
+div#toc ul {
+    background-color: #D4E5FF !important;
 }
 
 /* Table custom colors */
@@ -83,16 +95,16 @@ table > thead > tr > th {
     background-color: #F5F5F5 !important;
     text-align: center !important;
     padding-left: 25px !important;
-    white-space: nowrap;
+    white-space: nowrap !important;
 }
 table > tbody > tr > td {
     border: 2px solid #1C0 !important;
 }
 table > tbody > tr:nth-of-type(odd) {
-    background-color: #CCC;
+    background-color: #CCC !important;
 }
 table > tbody > tr:nth-of-type(even) {
-    background-color: #DDD;
+    background-color: #DDD !important;
 }
 
 
