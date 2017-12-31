@@ -115,6 +115,16 @@ table > tbody > tr:nth-of-type(even) {
     background-color: #DDD !important;
 }
 
+/* Fix jQuery DataTable */
+
+.dataTables_wrapper,
+table.dataTable {
+    clear: none !important;
+}
+/* Workaround color for now */
+.dataTables_wrapper {
+    background-color: #0c0;
+}
 
 /* Port from theme-blue stylesheet */
 
