@@ -71,6 +71,29 @@ div.navbar-collapse .dropdown-menu > li > a:hover {
     border-color: #080 !important;
 }
 
+/* Table custom colors */
+
+table > thead > tr > th,
+table > tbody > tr > td {
+    border: 2px solid #1C0 !important;
+    color: #555 !important;
+}
+table > thead > tr > th {
+    background-color: #F5F5F5 !important;
+    text-align: center !important;
+    padding-left: 25px !important;
+}
+table > tbody > tr > td {
+    border: 2px solid #1C0 !important;
+}
+table > tbody > tr:nth-of-type(odd) {
+    background-color: #CCC;
+}
+table > tbody > tr:nth-of-type(even) {
+    background-color: #DDD;
+}
+
+
 /* Port from theme-blue stylesheet */
 
 .summary {
