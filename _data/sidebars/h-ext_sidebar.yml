@@ -31,14 +31,27 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Changelog
-      url: /h-ext/changelog.html
+    - title: About
+      url: /h-ext/about.html
       output: web, pdf
 
     - title: FAQ
       url: /h-ext/faq.html
       output: web, pdf
 
-    - title: About
-      url: /h-ext/about.html
+    - title: Changelog
+      url: /h-ext/changelog.html
       output: web, pdf
+
+    - title: Milestone
+      url: /h-ext/milestone.html
+      output: web, pdf
+
+    - title: Commands
+      url: /h-ext/commands.html
+      output: web, pdf
+
+    - title: Aliases
+      url: /h-ext/aliases.html
+      output: web, pdf
+
