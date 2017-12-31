@@ -83,6 +83,7 @@ table > thead > tr > th {
     background-color: #F5F5F5 !important;
     text-align: center !important;
     padding-left: 25px !important;
+    white-space: nowrap;
 }
 table > tbody > tr > td {
     border: 2px solid #1C0 !important;
