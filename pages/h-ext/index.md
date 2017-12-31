@@ -34,12 +34,20 @@ We have included the [Halo Netcode](halo_netcode.html) page of what does and doe
 
 ## Compatibility for Halo
 
+{% capture note_os_render %}We do not "support" Open Sauce's third-party integrations as we will be appending the hooks to allow other developers to create their own instead of third-party integrations if they preferred so. Or other Halo users do not want this included with their Halo.{% endcapture %}
+{% capture note_os %}{% include note.html content=note_os_render %}{% endcapture %}
+{% capture note_untested_render %}Halo versions below 1.10 are not fully tested.{% endcapture %}
+{% capture note_untested %}{% include warning.html content=note_untested_render %}{% endcapture %}
+
+
 | H-Ext Version | Halo Trial | Halo PC | Halo CE | Halo OS
 | --- | --- | --- | --- | --- |
 | (DZS OS SAPP)<br/>0.1.0 - 0.1.4 | --- | --- | 1.09 Dedi | Unknown |
 | (S-Ext)<br/>0.2.0 - 0.4.2.2 | --- | --- | 1.00, 1.07-1.09 Dedi | 3.x & 4.x **(Please note the map commands will not work correctly for yelo maps, use the native halo command as a workaround)** |
-| (H-Ext)<br/>0.5.0 - 0.5.1.2 | ALL | 1.00 - 1.09 | 1.00-1.09 |3.x & 4.x **(We do not "support" Open Sauce's third-party integrations as we will be appending the hooks to allow other developers to create their own instead of third-party integrations if they preferred so. Or other Halo users do not want this included with their Halo.)** |
-| (H-Ext)<br/>0.5.2.2 - ? | ALL | ALL | ALL | 3.x & 4.x **(We do not "support" Open Sauce's third-party integrations as we will be appending the hooks to allow other developers to create their own instead of third-party integrations if they preferred so. Or other Halo users do not want this included with their Halo.)** |
+| (H-Ext)<br/>0.5.0 - 0.5.1.2 | ALL | 1.00 - 1.09 | 1.00-1.09 |3.x & 4.x {::nomarkdown}{{ note_os | markdownify | strip_newlines }}{:/} |
+| (H-Ext)<br/>0.5.2.2 - 0.5.2.4 | Partial | 1.03 - 1.10 | ALL | 3.x & 4.x {::nomarkdown}{{ note_os | markdownify | strip_newlines }}{:/} |
+| (H-Ext)<br/>0.5.3.4 - ? | Partial | Untested | Untested | 3.x & 4.x {::nomarkdown}{{ note_os | markdownify | strip_newlines }}{:/} {::nomarkdown}{{ note_untested | markdownify | strip_newlines }}{:/} |
+
 
 
 More coming soon...
