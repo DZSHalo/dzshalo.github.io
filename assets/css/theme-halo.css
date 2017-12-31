@@ -18,6 +18,7 @@
     }
     div#toc {
         float: right !important;
+        margin: 0 0 15px 15px;
     }
 }
 /* Override page to display on whole screen instead of static width. */

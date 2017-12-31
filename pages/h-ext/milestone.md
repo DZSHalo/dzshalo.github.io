@@ -3,6 +3,7 @@ title: Milestone | H-Ext
 sidebar: h-ext_sidebar
 permalink: /h-ext/milestone.html
 folder: h-ext
+toc: false
 ---
 
 ## Versions Planned
