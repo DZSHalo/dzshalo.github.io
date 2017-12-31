@@ -29,8 +29,11 @@
 /* Custom colors */
 
 body {
-    background-color: #060 !important;
+    background-color: #000 !important;
     color: #ddd !important;
+}
+body > .container {
+    background-color: #060 !important;
 }
 hr.shaded {
     background-color: #080 !important;
