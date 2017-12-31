@@ -71,14 +71,14 @@ div.navbar-collapse .dropdown-menu > li > a:hover {
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
     border-color: #080 !important;
 }
-div.post-content > a,
-div#toc > a {
+div.post-content a,
+div#toc a {
     color: #0c0 !important;
 }
-div.post-content > a:focus,
-div.post-content > a:hover,
-div#toc > a:focus,
-div#toc > a:hover {
+div.post-content a:focus,
+div.post-content a:hover,
+div#toc a:focus,
+div#toc a:hover {
     color: #0c0 !important;
 }
 .nav > li.active > a {
