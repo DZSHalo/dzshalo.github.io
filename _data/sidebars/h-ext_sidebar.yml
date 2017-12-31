@@ -26,7 +26,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Get Started
+    - title: H-Ext
       url: /h-ext/index.html
       output: web, pdf
       type: homepage
@@ -41,6 +41,14 @@ entries:
 
     - title: Changelog
       url: /h-ext/changelog.html
+      output: web, pdf
+
+    - title: Install
+      url: /h-ext/install.html
+      output: web, pdf
+
+    - title: Load
+      url: /h-ext/load.html
       output: web, pdf
 
     - title: Milestone

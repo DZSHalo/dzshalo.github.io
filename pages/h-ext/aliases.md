@@ -1,6 +1,6 @@
 ---
 title: Aliases | H-Ext
-tags: alias
+tags: [alias]
 sidebar: h-ext_sidebar
 permalink: /h-ext/aliases.html
 folder: h-ext

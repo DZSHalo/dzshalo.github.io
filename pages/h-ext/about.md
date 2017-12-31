@@ -1,6 +1,6 @@
 ---
 title: About H-Ext
-keywords: about
+keywords: [about]
 summary: "About H-Ext"
 sidebar: h-ext_sidebar
 permalink: /h-ext/about.html
