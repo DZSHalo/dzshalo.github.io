@@ -38,7 +38,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Get Started
+    - title: Add-on API
       url: /add-on api/index.html
       output: web, pdf
       type: homepage
@@ -53,4 +53,29 @@ entries:
 
     - title: About
       url: /add-on api/about.html
+      output: web, pdf
+
+    - title: Events
+      url: /add-on api/events.html
+      output: web, pdf
+      type: homepage
+
+    - title: Timer API
+      url: /add-on api/timer_api.html
+      output: web, pdf
+
+    - title: Database API
+      url: /add-on api/database_api.html
+      output: web, pdf
+
+    - title: Console API
+      url: /add-on api/console_api.html
+      output: web, pdf
+
+  - title: How-To
+    output: web, pdf
+    folderitems:
+
+    - title: Setup
+      url: /add-on api/how-to_setup.html
       output: web, pdf

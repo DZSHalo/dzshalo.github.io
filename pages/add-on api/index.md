@@ -52,16 +52,17 @@ void EXTOnEAOUnload(void) {
 	// Including to remove all of command from our command listener system. (May subject to change for self remove commands.)
 }
 ```
+Don't know how to setup a plugin? Use this [link to learn simple way to setup](how-to_setup.html) a plugin. 
+
 Once you have compile your Add-on, you need to use Add-on Converter application in order for Halo Extension to load your Add-on. Add-on Converter will validate your definition, hooks, etc, then convert it. You will find converted file in the same directory where you compiled it.
 
 Have questions? Please use the [Add-on API FAQ](faq.html) page before contacting us.
 
-For complete list of events from native Halo, please go to [events section](events.html).
 
-For complete list of Database API functions needed, please go to [Database API section](database_api.html).
-
-For complete list of Console API functions needed, please go to [Console API section](console_api.html).
-
-For complete list of Timer API functions needed, please go to [Timer API section](timer_api.html).
+For complete list of APIs, please review below.
+* [Events](events.html).
+* [Timer API](timer_api.html).
+* [Database API](database_api.html).
+* [Console API](console_api.html).
 
 {% include links.html %}
