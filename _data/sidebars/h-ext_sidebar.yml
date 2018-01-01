@@ -22,6 +22,17 @@ entries:
       url: /theme_about.html
       output: web
 
+  - title: Software
+    output: web
+    folderitems:
+    - title: Add-on API
+      url: /add-on api/index.html
+      output: web
+
+    - title: Add-ons
+      url: /add-ons/index.html
+      output: web
+
   - title: Overview
     output: web, pdf
     folderitems:

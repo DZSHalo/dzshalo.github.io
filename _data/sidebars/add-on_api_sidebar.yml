@@ -22,6 +22,18 @@ entries:
       url: /theme_about.html
       output: web
 
+  - title: Software
+    output: web
+    folderitems:
+    - title: H-Ext
+      url: /h-ext/index.html
+      output: web
+
+    - title: Add-ons
+      url: /add-ons/index.html
+      output: web
+
+
   - title: Overview
     output: web, pdf
     folderitems:
