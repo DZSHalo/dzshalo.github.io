@@ -26,8 +26,10 @@
 }
 
 /* Override page to display on whole screen instead of static width. */
-.container {
+body > .container {
     width: 95% !important;
+    background-color: #060 !important;
+    display: table;
 }
 
 /* Custom colors */
@@ -35,9 +37,6 @@
 body {
     background-color: #000 !important;
     color: #ddd !important;
-}
-body > .container {
-    background-color: #060 !important;
 }
 hr.shaded {
     background-color: #080 !important;
