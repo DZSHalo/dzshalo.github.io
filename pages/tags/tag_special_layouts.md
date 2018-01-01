@@ -3,7 +3,6 @@ title: "Special layout pages"
 tagName: special_layouts
 search: exclude
 permalink: tag_special_layouts.html
-sidebar: home_sidebar
 folder: tags
 ---
 

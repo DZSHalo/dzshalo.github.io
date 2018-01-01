@@ -1,7 +1,6 @@
 ---
 title: "Home"
 keywords: homepage
-sidebar: home_sidebar
 permalink: index.html
 ---
 
