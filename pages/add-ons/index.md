@@ -5,6 +5,14 @@ permalink: /add-ons/index.html
 folder: add-ons
 ---
 
-Welcome to Wiki page.
+If you are looking how to load add-on, please review `ext_addon_load` command in [H-Ext commands page](/h-ext/commands.html).
+
+List of Add-ons:
+* Official add-ons open source can be found in [github](https://github.com/H-Ext-Addons).
+* Unit tests add-ons can be found in [github](https://github.com/H-Ext-UnitTests).
+* Release builds currently can be only found on [our website](http://addon.halo.dangerzonestudio.com/halo-extension/add-on).
+
+List of unofficial Add-ons:
+* [Pirate Mod](https://github.com/RadWolfie/Pirate-Mod)
 
 {% include links.html %}
