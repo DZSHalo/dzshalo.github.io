@@ -105,7 +105,7 @@ sidebars:
 - h-ext_sidebar
 - add-on_api_sidebar
 
-description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."
+description: "Danger Zone Studio's Halo alternate website relative for H-Ext, Add-on API, and Add-ons."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
