@@ -1,8 +1,8 @@
 ---
-title: "API pages"
-tagName: api
+title: "How To pages"
+tagName: how-to
 search: exclude
-permalink: tag_api.html
+permalink: tag_how-to.html
 folder: tags
 ---
 {% include taglogic.html %}

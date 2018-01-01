@@ -79,3 +79,8 @@ entries:
     - title: Setup
       url: /add-on api/how-to_setup.html
       output: web, pdf
+
+    - title: ICIniFile
+      url: /add-on api/how-to_icinifile_setup.html
+      output: web, pdf
+
