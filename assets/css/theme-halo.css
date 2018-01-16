@@ -30,6 +30,14 @@
     width: 95% !important;
 }
 
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    display: inline-block;
+}
+h1[id], h2[id], h3[id], h4[id], h5[id], h6[id], dt[id] {
+    margin-top: 20px !important;
+    padding-top: 0px !important;
+}
+
 /* Custom colors */
 
 body {
