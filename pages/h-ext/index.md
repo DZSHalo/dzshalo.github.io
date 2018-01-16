@@ -19,8 +19,6 @@ Got questions? Please visit our [FAQ page](faq.html) first before contacting us.
 
 We have included the [Halo Netcode](halo_netcode.html) page of what does and does not sync base on Halo's netcode.
 
-**Updated: We have now included Halo's native command page, more will come later.**
-
 ## System Requirement
 
 | Requirement | Minimum | Recommended | Confirmed? |

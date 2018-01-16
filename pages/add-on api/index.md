@@ -6,6 +6,8 @@ permalink: /add-on api/index.html
 folder: add-on api
 ---
 
+Before you start coding, ensure your planned coding is supported by looking at [program language support](program_language_support.html) page.
+
 Ever since the beginning of the Add-on API, the following 4 standard requirement, see below, for initializing a plugin.
 
 *NOTICE: This is updated for Add-on API 4.0.*
