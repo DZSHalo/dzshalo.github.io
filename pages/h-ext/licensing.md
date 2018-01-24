@@ -8,7 +8,7 @@ folder: h-ext
 
 S-Ext 0.2.0.0 and newer, and H-Ext 0.5.0.0 and newer releases - End User License Agreement Revised: October 2nd, 2013
 
-'''Keep in reminder, this licensing is currently under draft and still applies as this date.'''
+**Keep in reminder, this licensing is currently under draft and still applies as this date.**
 
 This end user license agreement ("Agreement") is a legal agreement between you, (in your capacity as an individual and as an agent for your company, institution, or other entity) and Danger Zone Studio's Halo branch. By "Software", we are defining it as S-Ext 0.2.0.0 and newer, and H-Ext 0.5.0.0 and newer releases.
 
