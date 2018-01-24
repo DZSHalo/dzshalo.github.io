@@ -42,6 +42,10 @@ entries:
       output: web, pdf
       type: homepage
 
+    - title: Licensing
+      url: /h-ext/licensing.html
+      output: web, pdf
+
     - title: About
       url: /h-ext/about.html
       output: web, pdf
