@@ -2,6 +2,7 @@
 title: "Home"
 keywords: homepage
 permalink: index.html
+toc: false
 ---
 
 Welcome to DZS Halo's alternate site for our softwares. From here, you can find documentations for Halo Extension, Add-on API, and Add-ons. Use the sidebar on the left or top menu bar to start navigation.
@@ -23,6 +24,6 @@ Latest news:
 <p>{% if page.summary %} {{ page.summary | strip_html | strip_newlines | truncate: 160 }} {% else %} {{ post.content | truncatewords: 50 | strip_html }} {% endif %}</p>
 
 {% endfor %}
-
+</div>
 
 {% include links.html %}
