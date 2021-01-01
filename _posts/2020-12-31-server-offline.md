@@ -1,5 +1,5 @@
 ---
-title:  "Offline"
+title:  "Server Offline"
 categories: news
 permalink: 2020/12/31/server-offline.html
 tags: [news]
