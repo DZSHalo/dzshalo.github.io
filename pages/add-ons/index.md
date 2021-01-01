@@ -10,7 +10,7 @@ If you are looking how to load add-on, please review `ext_addon_load` command in
 List of Add-ons:
 * Official add-ons open source can be found in [github](https://github.com/H-Ext-Addons).
 * Unit tests add-ons can be found in [github](https://github.com/H-Ext-UnitTests).
-* Release builds is no longer available to download.
+* Release builds are no longer available to download.
 
 List of unofficial Add-ons:
 * [Pirate Mod](https://github.com/RadWolfie/Pirate-Mod)
